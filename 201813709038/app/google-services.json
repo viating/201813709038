@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169277468885",
+    "project_id": "ali-bayar-201813709038",
+    "storage_bucket": "ali-bayar-201813709038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169277468885:android:2b04ac114543d79112725c",
+        "android_client_info": {
+          "package_name": "com.nexis.Ali_Bayar_201813709038"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169277468885-e7o1unl7qe79fu2f6hnp0kefseordc0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEw6u9StY44KY01V2ByvOqfJMGB5I6w9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169277468885-e7o1unl7qe79fu2f6hnp0kefseordc0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
